@@ -2,7 +2,7 @@
 
 ## Github link
 
-[GITHUB_LINK]()
+[GITHUB_LINK](https://github.com/rupali-12/Blog_HTML_CSS)
 
 ## Deployed Link
 
