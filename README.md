@@ -6,4 +6,4 @@
 
 ## Deployed Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://main--blog-html-css-rupali.netlify.app/)
